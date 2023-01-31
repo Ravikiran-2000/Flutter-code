@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760719516476",
+    "project_id": "fir-ce3af",
+    "storage_bucket": "fir-ce3af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760719516476:android:7a06e4d8e3cae6feeeb439",
+        "android_client_info": {
+          "package_name": "com.rosary.time_table.time_table"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760719516476-dsef1l385qfkmq7tnme9pj56amqq2h43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzEQtVWmhEylz9sbhs4ovcSk1h1H5FX4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760719516476-dsef1l385qfkmq7tnme9pj56amqq2h43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
